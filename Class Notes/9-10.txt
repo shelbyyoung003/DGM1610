@@ -1,7 +1,0 @@
-DGM1610 Notes 9/10/18
-
-You cannot duplicate a script (class)
-
-Code can contain functions and variables
-
-Print prints information to the console
