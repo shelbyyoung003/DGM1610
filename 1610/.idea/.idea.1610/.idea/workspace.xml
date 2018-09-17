@@ -12,7 +12,7 @@
     <session id="603690095">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.54" value="1" />
@@ -62,13 +62,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddMoney.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="45">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding>
-                <marker date="1537220544000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1537220544000" expanded="true" signature="117:271" ph="{...}" />
-                <marker date="1537220544000" expanded="true" signature="183:207" ph="{...}" />
-                <marker date="1537220544000" expanded="true" signature="262:269" ph="{...}" />
+                <marker date="1537220672000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537220672000" expanded="true" signature="117:270" ph="{...}" />
+                <marker date="1537220672000" expanded="true" signature="182:206" ph="{...}" />
+                <marker date="1537220672000" expanded="true" signature="261:268" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -166,12 +166,12 @@
       <updated>1536613061255</updated>
       <workItem from="1536613067550" duration="1780000" />
       <workItem from="1536785146748" duration="2729000" />
-      <workItem from="1537216264526" duration="2416000" />
+      <workItem from="1537216264526" duration="2784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6925000" />
+    <option name="totallyTimeSpent" value="7293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -184,7 +184,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -268,13 +267,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddMoney.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="45">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding>
-            <marker date="1537220544000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537220544000" expanded="true" signature="117:271" ph="{...}" />
-            <marker date="1537220544000" expanded="true" signature="183:207" ph="{...}" />
-            <marker date="1537220544000" expanded="true" signature="262:269" ph="{...}" />
+            <marker date="1537220672000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537220672000" expanded="true" signature="117:270" ph="{...}" />
+            <marker date="1537220672000" expanded="true" signature="182:206" ph="{...}" />
+            <marker date="1537220672000" expanded="true" signature="261:268" ph="{...}" />
           </folding>
         </state>
       </provider>
