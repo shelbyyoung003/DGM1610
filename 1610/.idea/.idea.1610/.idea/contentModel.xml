@@ -9,8 +9,11 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AddMoney.cs" t="Include" />
+          <e p="AddValue.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="MouseDownBehavior.cs" t="Include" />
           <e p="Move.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
