@@ -25,22 +25,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2031" />
+          <entry key="cs" value="2169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2031" />
+          <entry key="C#" value="2169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="11" />
+          <entry key="cs" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="11" />
+          <entry key="C#" value="13" />
         </counts>
       </usages-collector>
     </session>
@@ -90,25 +90,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PracticeRepo/PracticeAndHomework/Practice/Assets/FloatData.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1537995774000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1537995774000" expanded="true" signature="96:293" ph="{...}" />
+                <marker date="1537995774000" expanded="true" signature="189:226" ph="{...}" />
+                <marker date="1537995774000" expanded="true" signature="253:291" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SubtractValue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <marker date="1537995774000" expanded="true" signature="6:44" ph="..." />
-                <marker date="1537995774000" expanded="true" signature="96:293" ph="{...}" />
-                <marker date="1537995774000" expanded="true" signature="189:226" ph="{...}" />
-                <marker date="1537995774000" expanded="true" signature="253:291" ph="{...}" />
+                <marker date="1538096344000" expanded="true" signature="84:199" ph="{...}" />
+                <marker date="1538096344000" expanded="true" signature="164:196" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MultiplyValue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <folding>
+                <marker date="1538097754000" expanded="true" signature="84:213" ph="{...}" />
+                <marker date="1538097754000" expanded="true" signature="169:210" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -162,8 +179,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <marker date="1537996804000" expanded="true" signature="78:219" ph="{...}" />
                 <marker date="1537996804000" expanded="true" signature="163:216" ph="{...}" />
@@ -180,12 +197,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../PracticeRepo/PracticeAndHomework/Practice/Assets/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SubtractValue.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AddMoney.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MultiplyValue.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -203,6 +222,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
         <option value="$PROJECT_DIR$/../PracticeRepo/PracticeAndHomework/Practice/Assets/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SubtractValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MultiplyValue.cs" />
       </list>
     </option>
   </component>
@@ -212,7 +233,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="728" />
     <option name="height" value="1038" />
@@ -281,12 +302,12 @@
       <workItem from="1537389020189" duration="3361000" />
       <workItem from="1537820786380" duration="2819000" />
       <workItem from="1537994494591" duration="3504000" />
-      <workItem from="1538094624650" duration="656000" />
+      <workItem from="1538094624650" duration="2798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17633000" />
+    <option name="totallyTimeSpent" value="19775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,7 +319,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="582" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5689655" />
@@ -376,19 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1537995774000" expanded="true" signature="6:44" ph="..." />
-            <marker date="1537995774000" expanded="true" signature="96:293" ph="{...}" />
-            <marker date="1537995774000" expanded="true" signature="189:226" ph="{...}" />
-            <marker date="1537995774000" expanded="true" signature="253:291" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -414,6 +422,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeRepo/PracticeAndHomework/Practice/Assets/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1537389846000" expanded="true" signature="80:105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1537995774000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1537995774000" expanded="true" signature="96:293" ph="{...}" />
+            <marker date="1537995774000" expanded="true" signature="189:226" ph="{...}" />
+            <marker date="1537995774000" expanded="true" signature="253:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddValue.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -430,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
           <folding>
             <marker date="1537996804000" expanded="true" signature="78:219" ph="{...}" />
             <marker date="1537996804000" expanded="true" signature="163:216" ph="{...}" />
@@ -439,20 +477,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SubtractValue.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <marker date="1537389846000" expanded="true" signature="80:105" ph="{...}" />
+            <marker date="1538096344000" expanded="true" signature="84:199" ph="{...}" />
+            <marker date="1538096344000" expanded="true" signature="164:196" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeRepo/PracticeAndHomework/Practice/Assets/FloatData.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MultiplyValue.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <marker date="1538097754000" expanded="true" signature="84:213" ph="{...}" />
+            <marker date="1538097754000" expanded="true" signature="169:210" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
