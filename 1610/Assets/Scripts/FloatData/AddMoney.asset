@@ -12,3 +12,15 @@ MonoBehaviour:
   m_Name: AddMoney
   m_EditorClassIdentifier: 
   ValueObj: {fileID: 0}
+  MaxValue: {fileID: 0}
+  MinValue: {fileID: 0}
+  EventMax:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  EventMin:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
