@@ -11,4 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e89c506b804c4eb41985606161290be2, type: 3}
   m_Name: TWDvMysteryInc
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: 1a9c8aa547d428c4c854113dac2564da, type: 2}
+  - {fileID: 11400000, guid: ec18b5304c56513408fadc83dbe235a3, type: 2}
