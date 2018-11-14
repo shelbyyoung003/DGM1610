@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e06ea7-3689-46a4-87f5-529b39d8e6db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PracticeRepo/ActualFinalGame" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeRepo/ActualFinalGame" afterDir="false" />
     </list>
@@ -65,18 +66,27 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1460736284">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameStates.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +101,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -101,6 +111,20 @@
                 <marker date="1539037000000" expanded="true" signature="123:329" ph="{...}" />
                 <marker date="1539037000000" expanded="true" signature="149:220" ph="{...}" />
                 <marker date="1539037000000" expanded="true" signature="269:327" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnums.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542233208000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542233208000" expanded="true" signature="121:242" ph="{...}" />
+                <marker date="1542233208000" expanded="true" signature="171:178" ph="{...}" />
+                <marker date="1542233208000" expanded="true" signature="233:240" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -201,19 +225,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../PracticeRepo/ActualFinalGame/FinalGame/Assets/Scripts/FollowerAI.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../PracticeRepo/ActualFinalGame/FinalGame/Assets/Scripts/Instancing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BasicAI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnums.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BasicAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PracticeRepo/ActualFinalGame/FinalGame/Assets/Scripts/Instancing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PracticeRepo/ActualFinalGame/FinalGame/Assets/Scripts/FollowerAI.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -270,9 +295,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="-7" />
+    <option name="width" value="783" />
+    <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -280,12 +305,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
     </panes>
   </component>
@@ -366,11 +391,12 @@
       <workItem from="1541625678414" duration="2691000" />
       <workItem from="1541724860058" duration="597000" />
       <workItem from="1541783975349" duration="1150000" />
+      <workItem from="1542229923802" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65144000" />
+    <option name="totallyTimeSpent" value="65737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,10 +408,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="782" height="831" extended-state="1" />
+    <frame x="-5" y="0" width="626" height="666" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07063712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09187279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -644,6 +670,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1539814332000" expanded="true" signature="81:259" ph="{...}" />
+            <marker date="1539814332000" expanded="true" signature="146:179" ph="{...}" />
+            <marker date="1539814332000" expanded="true" signature="223:256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1539036024000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539036024000" expanded="true" signature="119:295" ph="{...}" />
+            <marker date="1539036024000" expanded="true" signature="170:289" ph="{...}" />
+            <marker date="1539036024000" expanded="true" signature="208:286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeRepo/ActualFinalGame/FinalGame/Assets/Scripts/Instancing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -699,38 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <marker date="1539814332000" expanded="true" signature="81:259" ph="{...}" />
-            <marker date="1539814332000" expanded="true" signature="146:179" ph="{...}" />
-            <marker date="1539814332000" expanded="true" signature="223:256" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <marker date="1539036024000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539036024000" expanded="true" signature="119:295" ph="{...}" />
-            <marker date="1539036024000" expanded="true" signature="170:289" ph="{...}" />
-            <marker date="1539036024000" expanded="true" signature="208:286" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeRepo/ActualFinalGame/FinalGame/Assets/Scripts/Instancing.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -740,6 +766,18 @@
             <marker date="1539037000000" expanded="true" signature="123:329" ph="{...}" />
             <marker date="1539037000000" expanded="true" signature="149:220" ph="{...}" />
             <marker date="1539037000000" expanded="true" signature="269:327" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateAnums.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542233208000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542233208000" expanded="true" signature="121:242" ph="{...}" />
+            <marker date="1542233208000" expanded="true" signature="171:178" ph="{...}" />
+            <marker date="1542233208000" expanded="true" signature="233:240" ph="{...}" />
           </folding>
         </state>
       </provider>

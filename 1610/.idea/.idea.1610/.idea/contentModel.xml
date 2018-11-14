@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\skyru\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\skyru\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_1610.572601824.00" t="ExcludeRecursive" />
-    <e p="F:\DGM1610\1610" t="IncludeRecursive">
+    <e p="C:\Users\skyru\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_1610.505595071.00" t="ExcludeRecursive" />
+    <e p="G:\DGM1610\1610" t="IncludeRecursive">
       <e p="1610.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -35,6 +35,7 @@
           <e p="SubtractValue.cs" t="Include" />
           <e p="SwitchStatements.cs" t="Include" />
           <e p="TriggerEventBehaviour.cs" t="Include" />
+          <e p="UpdateAnims.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />
           <e p="ValueChange.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
